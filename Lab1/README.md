@@ -1,6 +1,8 @@
-# Deep Learning HW1
+# Lab 1
 
+Biomedical Signal Analysis (Time, Frequency, Time-Frequency Domain)
 
-*   **Some theoretical ML questions**: HW1_theory.pdf
-*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
-*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
+*   **EEG**: Lab1_Q1.m
+*   **ECG**: Lab1_Q2.m
+*   **ECG**: Lab1_Q3.m
+*   **EMG**: Lab1_Q4.m
