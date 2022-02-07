@@ -1,2 +1,6 @@
-# Medical_Signal_and_Image_Processing_Lab
-Medical Signal and Image Processing Laboratory - EE25043
+# Deep Learning HW1
+
+
+*   **Some theoretical ML questions**: HW1_theory.pdf
+*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
+*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
