@@ -1,4 +1,4 @@
-# Deep Learning HW1
+# Lab 6
 
 
 *   **Some theoretical ML questions**: HW1_theory.pdf
