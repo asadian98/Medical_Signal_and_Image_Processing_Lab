@@ -1,4 +1,4 @@
-# Lab3
+# Lab 3
 
 Fetal and Maternal ECG Signals Separation using SVD and ICA
 
