@@ -25,6 +25,6 @@ Recovering using Gradient Descent:
 
 ![image](https://user-images.githubusercontent.com/94138466/152867244-d95f7c56-a78b-4148-8dee-aba22db9f777.png)
 
-Recovering using Anisotropic Diffusion:
+Recovering using Anisotropic Diffusion (Left Half):
 
 ![image](https://user-images.githubusercontent.com/94138466/152867408-861d2dbc-2e79-4d01-8ced-6f647bacda0c.png)
