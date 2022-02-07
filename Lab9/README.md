@@ -20,8 +20,8 @@ Electrode Potentials:
 
 Applying MNE Algorithm:
 
-97th Dipole: Error: 178.6329 deg, Distance: 0.8458 cm
+*   97th Dipole: Error: 178.6329 deg, Distance: 0.8458 cm
 
-104th Dipole: Error: 26.1150 deg, Distance: 6.5387 cm
+*   104th Dipole: Error: 26.1150 deg, Distance: 6.5387 cm
 
-1299th Dipole: Error: 0.0208 deg, Distance: 6.3556
+*   1299th Dipole: Error: 0.0208 deg, Distance: 6.3556
