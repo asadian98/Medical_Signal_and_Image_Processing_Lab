@@ -1,6 +1,4 @@
-# Deep Learning HW1
+# Lab 2
 
-
-*   **Some theoretical ML questions**: HW1_theory.pdf
-*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
-*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
+*   **Simulated Epilepsy EEG Signals Noise Removal using ICA**: HW1_theory.pdf
+*   **Simulated Epilepsy EEG Signals Noise Removal using ICA**: Sig
