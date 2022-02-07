@@ -1,6 +1,7 @@
 # Medical Signal and Image Processing Lab
 
-Medical Signal and Image Processing Laboratory - EE25043
+**Medical Signal and Image Processing Laboratory - EE25043**
+
 
 Lab 1
 
