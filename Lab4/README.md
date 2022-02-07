@@ -1,6 +1,7 @@
-# Deep Learning HW1
+# Lab4
 
+EEG Patterns Recognition
 
-*   **Some theoretical ML questions**: HW1_theory.pdf
-*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
-*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
+*   **Event-related potential (ERP)**: Lab4_1.m
+*   **Steady State Visually Evoked Potentials (SSVEP)**: Lab4_2.m
+*   **Event-Related Desynchronization/Synchronization**: Lab4_3.m
