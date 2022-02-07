@@ -2,15 +2,15 @@
 
 Medical Signal and Image Processing Laboratory - EE25043
 
-> Lab 1
+Lab 1
 
 *   Biomedical Signal Analysis (Time, Frequency, Time-Frequency Domain) - EEG, ECG, EOG, EMG
 
-> Lab 2
+Lab 2
 
 *   Epilepsy EEG Signals Noise Removal using ICA
 
-> Lab 3
+Lab 3
 
 *   Fetal and Maternal ECG Signals Separation using SVD and ICA
 
