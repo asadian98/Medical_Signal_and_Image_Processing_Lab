@@ -1,6 +1,6 @@
 # Lab 2
 
-Epilepsy EEG Signals Noise Removal using ICA
+Epilepsy EEG Signals Noise Removal using ICA:
 
 *   **Using Simulated Signals**: Lab2_1.m
 *   **Using Real Signals**: Lab2_2.m
