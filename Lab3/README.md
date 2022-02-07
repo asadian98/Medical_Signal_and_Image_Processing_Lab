@@ -27,6 +27,7 @@ Using ICA:
 Comparison:
 
 Correlation coefficient of Ideal & SVD = 0.67495
+
 Correlation coefficient of Ideal & ICA = 0.99784
 
 ![image](https://user-images.githubusercontent.com/94138466/152851451-474c3a04-af0b-4e9e-a800-1fd6c9fb7f0d.png)
