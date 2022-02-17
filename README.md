@@ -2,6 +2,7 @@
 
 **Medical Signal and Image Processing Laboratory - EE25043**
 
+Instructor: Dr. Sepideh Hajipour; Fall 2021
 
 Lab 1
 
